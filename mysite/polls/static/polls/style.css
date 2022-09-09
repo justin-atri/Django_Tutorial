@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+}
+
+li a {
+    color: white;
+    font-size: 5rem;
+}
+
+body {
+    background: white url("images/background.jpeg") no-repeat;
+}
